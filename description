@@ -1,0 +1,85 @@
+Job description
+Dear Candidate,
+Unmetric, the only Social Media Intelligence Platform Focused on Brands.
+Ready to work for a company where your work makes a tangible difference to the goals of the company?
+ 
+We are seeking a senior Linux systems administrator to join our web development team and maintain our fast-growing web infrastructure. This candidate would work primarily with Amazon Web Services and would be in charge of developing a scalable, repeatable, maintainable, and secure infrastructure to allow for our growing base of web-based applications. Unmetric works with an open and transparent philosophy, no one gets locked away in cabins, co-founders sit with the team and every department is encouraged to interact on a daily basis.
+ 
+ Job Description
+·         Automate the creation and management of servers for the web environment as well as internal applications.
+·         Establish regular monitoring and security reviews of our infrastructure of approximately 200 virtual servers across AWS, Rackspace and Linode.
+·         Design and implement tools to improve performance and scalability of our web network and server infrastructure.
+·         Create and manage processes for adhering to our compliance requirements.
+·         Create documentation to ensure shared knowledge about deployment, maintenance, and security of our web infrastructure.
+·         Interact with cross-functional teams on projects regarding deployment of new servers or establishing new networks.
+·         Manage Linux servers that run services such as Apache, MySQL,with the ability to report on application layer issues to the development team.
+·         Research and recommend innovative, and where possible automated approaches for system administration tasks. Identify approaches that leverage our resources and provide economies of scale
+·         Perform daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs and verifying completion of scheduled jobs such as backups
+·         Provide regular after hours support for critical systems
+·         Perform regular security auditing to identify any possible intrusions and identify risks
+·         Perform daily backup operations, ensuring all required file systems and system data are backed up as required
+·         Repair and recover from hardware or software failures; coordinate and communicate with impacted users and departments
+·         Perform system administration of web platform components (Apache, SOLR, MySQL) in both live and development environments
+·         Contribute to and maintain organizational system standards
+·         Source Code Management and Release Management skills a plus.
+·         Reports to Director - Engineering
+ 
+Desired Skills and Experience
+ 
+·         Unix based systems administration - Good understanding of Unix systems
+    ·         Excellent scripting abilities - bash shell scripting, python, perl etc. packages in unix like sed, awk
+    ·         Excellent understanding of AWS infrastructure - EC2, S3, cloudwatch, etc.
+    ·         Good understanding of deployment procedures - SVN, jenkins,git etc.
+    · .       Excellent understanding of various servers and configurations for optimizing performance -                
+              Tomcat, Apache Httpd server
+    ·         Exposure to infrastructure alerting systems - nagios, twilio, pagerduty etc
+    ·         Good understanding of MySQL configuration and administration      
+·         Ability to automate tasks using a scripting language (such as shell, Perl, PHP, etc.).
+·         Understanding of networking, network design, and systems security concepts.
+·         General understanding of operating system concepts and performance tuning.
+·         A good understanding of distributed computing environments.
+·         A minimum of five year experience in server administration.
+·         Atleast one source code management experience
+·         Release Management a plus.
+Industry
+Information Technology and Services
+Employment type
+Full-time
+Experience
+Mid-Senior level
+Job function
+Engineering,Information Technology
+
+
+
+
+Applied on August 26, 2016.
+Job description
+ 
+  Job Responsibilities:
+ 
+• Constantly improve performance and reliability of hosting environment 
+• Strong Unix base O/S experience or proven ability to pick up Linux quickly 
+• Ability to do scripting (any one of Shell, Ruby, Perl, Python etc.). 
+• Strong debugging/troubleshooting skills 
+• Excellent verbal & written communication skills 
+• A passion towards problem-solving 
+• Must be able to think proactively; excellent follow-through and attention to details. 
+• Knowledge on distributed applications/enterprise applications is plus.
+• Passion for web site configuration, tuning and troubleshooting
+• Deep, working knowledge of web, database, and OS server configuration (Linux, Apache, and MySQL preferred platforms)
+• Holistic understanding of the Internet and hosting from the network layer up through the application layer.
+• Experience in a 24x7 hosting environment
+• Experience with monitoring tools, scripting, and internet security
+• Cloud hosting experience (e.g., Amazon Web Services, Eucalyptus, OpenStack, CloudStack)
+• Monitoring tools (e.g., Nagios, Cacti, Ganglia, Splunk, Sensu, BMC, OpenView)
+• Configuration management (e.g., Puppet, Chef, Ansible, Subversion, Git)
+• Scripting experience with Perl, Python, or Ruby
+• Web security (e.g., IDS systems, DOS prevention)
+• Scalable hosting cluster experience (e.g., nginx, Varnish, GlusterFS, etc.)
+   
+Candidates should be willing to relocate to  Chennai if selected.  
+ 
+Candidates can send profiles to smythili@expertus.com or call 044-42679827 OR 9444873895
+Regards,
+Mythili
